@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Js2Hou
-subtitle: "Welcome to Js2Hou's world | coupled with LQ"  # 优先级高于 _config.stellar.yml
+title: zjzjwang
+subtitle: "Welcome to zjzjwang's world | coupled with LJ"  # 优先级高于 _config.stellar.yml
 description: ''
 keywords:
-author: Js2Hou
+author: zjzjwang
 language:
   - zh-CN
   - en
@@ -15,7 +15,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://js2hou.github.io/
+url: https://zjzjwang.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -107,7 +107,7 @@ theme: stellar
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Js2Hou/js2hou.github.io  
+  repo: https://github.com/zjzjwang/zjzjwang.github.io  
   branch: main
-  name: js2hou
-  email: js2hou@foxmail.com
+  name: zjzjwang
+  email: jayzhouwang@gmail.com

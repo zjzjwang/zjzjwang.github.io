@@ -15,8 +15,8 @@ inject:
 
 logo:
   icon: /assets/icon.svg
-  title: Js2Hou
-  subtitle: "Welcome to Js2Hou's world | Coupled with LQ"
+  title: zjzjwang
+  subtitle: "Welcome to zjzjwang's world | Coupled with LJ"
 menubar:
   items: 
     - id: post

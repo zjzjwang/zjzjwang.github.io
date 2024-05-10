@@ -16,7 +16,7 @@ header: false
 indent: true
 ---
 
-{% banner Js3Hou 南京炮兵学院的渣渣硕士毕业生。 bg:/assets/banner/nebula.jpg avatar:/assets/icon.svg %}
+{% banner zjzjwang, a lazy boy。 bg:/assets/banner/nebula.jpg avatar:/assets/icon.svg %}
 {% endbanner %}
 
 <br>

@@ -5,7 +5,7 @@ tags:
 
 ## 介绍
 
-这是 js2hou 的博客系统，采用 hexo + stellar + github page 搭建。
+这是 zjzjwang 的博客系统，采用 hexo + stellar + github page 搭建。
 
 
 ## 搭建流程
