@@ -1,0 +1,11 @@
+starter:
+  layout: linklist
+  title: 入门向导
+  columns: 1
+  items:
+    - icon: solar:notebook-bookmark-bold-duotone
+      title: 查阅 Stellar 文档
+      url: https://xaoxuu.com/wiki/stellar/#start
+    - icon: solar:code-file-bold-duotone
+      title: 查看 Stellar 源码
+      url: https://github.com/xaoxuu/hexo-theme-stellar
